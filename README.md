@@ -1,0 +1,2 @@
+# Actividad-Go-Funciones-repositorio-independiente
+Implementar la secuencia de Fibonacci de manera recursiva.  Implementa una *variadic function* sum(args ...int) y retorne el número más grande.  Crea un generador de número impares tomando de ejemplo `generadorPares()`.  Crea un programa que pida dos enteros `(a y b)` y llame a la función `intercambia(&amp;a, &amp;b)`, la cual intercambia el valor de a y b; usando punteros.
